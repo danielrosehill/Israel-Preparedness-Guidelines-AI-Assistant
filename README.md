@@ -2,7 +2,7 @@
 
 This repository contains contextual data and a system prompt for an AI assistant tasked with providing users with datestamped emergency guidelines from Israel's civilian preparedness body, the Home Front Command (Hebrew: Pikud HaOref).
 
-#git# Repository Structure
+# Repository Structure
 
 The repository is organized into the following main directories:
 
